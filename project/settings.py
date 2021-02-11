@@ -82,19 +82,6 @@ DATABASES = {
     }
 }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#
-#         'NAME': 'default',
-#         'USER': 'selvarajrajkanna',
-#         'PASSWORD': 'my$qlp@$$w0rd',
-#         'HOST': 'selvarajrajkanna.mysql.pythonanywhere-services.com',
-#         'PORT': '3306',
-#
-#     }
-# }
-
 CACHES = {
     'default': {
         'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
