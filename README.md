@@ -15,7 +15,7 @@ sqlparse==0.4.1
 
 
 Technology used:
-Framework - Django
+Framework - Django,
 Database - SQLite(default)
 
 
